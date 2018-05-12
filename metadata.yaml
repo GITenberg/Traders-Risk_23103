@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25679
     wikipedia: http://en.wikipedia.org/wiki/Roger_Dee
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23103#Traders-Risk
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-10-20'
 gutenberg_type: Text
